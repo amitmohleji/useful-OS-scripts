@@ -1,6 +1,6 @@
 **Client/Prospect Name** : nasdaq1
 
-**Primary POC Objective** : asd
+**Primary POC Objective** : amit
 
-**Seconday POC Objective** : asdasd
+**Seconday POC Objective** : mohleji
 
