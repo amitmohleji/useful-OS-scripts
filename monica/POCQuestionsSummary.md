@@ -1,22 +1,22 @@
 **Client/Prospect Name** : monica
 
-**Primary POC Objective** : test1
+**Primary POC Objective** : asdasd
 
-**Seconday POC Objective** : test2
+**Seconday POC Objective** : adasd
 
-**Tertiary POC Objective** : test2
+**Tertiary POC Objective** : asdasdasd
 
-**POC for Products** : XL Deploy,XL Release
+**POC for Products** : XL Deploy
 
-**Where would you install XL Deploy ?** : Linux/Unix
+**Where would you install XL Deploy ?** : Windows
 
 **Is JDK 8 Installed ? ** : No
 
 **What browser you use for Web GUI ?** : Chrome
 
-**Do you have administrative access to XL Deploy Server ?** : Yes
+**Do you have administrative access to XL Deploy Server ?** : No
 
 **Do you have a mail/SMTP server available to setup notifications during POC ?** : Yes
 
-**Do you have and LDAP/AD server available for Integration ?** : Yes
+**Do you have and LDAP/AD server available for Integration ?** : Maybe
 
