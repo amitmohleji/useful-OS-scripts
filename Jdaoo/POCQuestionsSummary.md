@@ -1,8 +1,7 @@
-**Client/Prospect Name** : Jdaoo
-
-**Primary POC Objective** : to excel
-
-**Seconday POC Objective** : yeehaw
+**Client/Prospect Name** | Jdaoo 
+---| ---
+**Primary POC Objective** | to excel 
+**Seconday POC Objective** | yeehaw
 
 **Tertiary POC Objective** : hoho
 
