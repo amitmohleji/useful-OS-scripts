@@ -31,4 +31,9 @@ sed -i '' 's/\${\([^}]*\)}/{{\1}}/g'
 sed -i '' 's/\${\([A-Z_^}]*\)}/{{\1}}/g'
 ```
 
+### look at the status of all git repos in a folder ###
+
+```
+for item in `ls`; do echo $item ;cd $item; git status; cd ..; done
+```
 
