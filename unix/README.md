@@ -1,6 +1,11 @@
 ## Handy Shell Snippets ##
 
+These are handy scripts for helping 
+
+
 ### To view the top level packages so you can decide what to remove ### 
+
+
 
 ```
 jar -tvf com.microsoft.tfs.sdk-11.0.0.jar |cut -c37-200 | cut -d/ -f1,2 | uniq
